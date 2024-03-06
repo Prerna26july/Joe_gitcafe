@@ -5,3 +5,4 @@
 2. americano
 3. frappe
 4. mocha
+5. [ice tea](recipes/ice_tea.txt)
